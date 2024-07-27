@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GbSoftShared.General")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc2e8994ddea5e0e61be985c2a6726c2823666ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be08d0dd297394b10515df714cb7ad6d5b357d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GbSoftShared.General")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GbSoftShared.General")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
