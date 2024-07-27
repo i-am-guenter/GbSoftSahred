@@ -1,4 +1,1 @@
-# GbSoftSahred
-# GbSoftSahred
-# GbSoftSahred
-# GbSoftSahred
+# General shared code library from Günter Bayerl
