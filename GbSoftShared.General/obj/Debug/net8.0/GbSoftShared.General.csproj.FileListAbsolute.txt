@@ -1,0 +1,11 @@
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/bin/Debug/net8.0/GbSoftShared.General.deps.json
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/bin/Debug/net8.0/GbSoftShared.General.dll
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/bin/Debug/net8.0/GbSoftShared.General.pdb
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/GbSoftShared.General.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/GbSoftShared.General.AssemblyInfoInputs.cache
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/GbSoftShared.General.AssemblyInfo.cs
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/GbSoftShared.General.csproj.CoreCompileInputs.cache
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/GbSoftShared.General.dll
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/refint/GbSoftShared.General.dll
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/GbSoftShared.General.pdb
+/Users/guenter/source/repos/GbSoftShared/GbSoftShared.General/obj/Debug/net8.0/ref/GbSoftShared.General.dll
